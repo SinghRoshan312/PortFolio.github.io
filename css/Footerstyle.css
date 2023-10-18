@@ -49,7 +49,7 @@ svg {
 }
 
 footer {
-  
+  position:relative;
   left: 0;
   bottom: 12px;
   display: flex;
