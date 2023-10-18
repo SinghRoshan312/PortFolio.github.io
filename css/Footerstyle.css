@@ -67,14 +67,4 @@ section {
   width: 100%;
 }
 
-@media (width > 420px) {
-  section {
-    align-items: center;
-    padding-left: 0;
-    gap: 20px;
-  }
-
-  .links {
-    gap: 20px;
-  }
 }
